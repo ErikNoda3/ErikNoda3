@@ -101,6 +101,7 @@ Me chamo Erik Noda e tenho 21 anos. Atualmente, estou cursando Engenharia da Com
 </picture>
 
 <br/>
+---
 ### 📊 Estatísticas
 
 <p>
