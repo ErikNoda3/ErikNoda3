@@ -93,6 +93,10 @@ Me chamo Erik Noda e tenho 21 anos. Atualmente, estou cursando Engenharia da Com
           
 
 <br/>
+<br/>
+
+---
+### 📊 Estatísticas
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErikNoda3/ErikNoda3/output/github-contribution-grid-snake-dark.svg">
@@ -100,9 +104,6 @@ Me chamo Erik Noda e tenho 21 anos. Atualmente, estou cursando Engenharia da Com
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ErikNoda3/ErikNoda3/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br/>
----
-### 📊 Estatísticas
 
 <p>
   <img 
